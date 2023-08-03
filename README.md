@@ -10,7 +10,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusBenedihtCaldeira&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusBenedihtCaldeira&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Benediht Caldeira stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusBenedihtCaldeira&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
   <img align="left" width="25%" height="200px" src="https://preview.redd.it/ba9hhksr38a71.gif?width=1680&auto=webp&s=5ec3296ada9392f7d7c876148c666360a4c1e7af" />
   <img align="left" width="25%" height="200px" src="https://cdn.dribbble.com/users/990491/screenshots/8699356/media/a49173b60c9b17e24d9b12d4383a7ac2.gif" />
